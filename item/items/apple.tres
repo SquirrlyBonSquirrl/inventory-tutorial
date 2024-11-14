@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="ItemData" load_steps=2 format=3 uid="uid://bubroulwoqlr0"]
+
+[ext_resource type="Script" path="res://item/item_data.gd" id="1_pug68"]
+
+[resource]
+script = ExtResource("1_pug68")
+name = ""
+description = ""
+stackable = false
